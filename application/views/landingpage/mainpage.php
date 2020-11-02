@@ -12,8 +12,8 @@
                 <div class="col-12 my-auto">
                     <div class="masthead-content text-white py-5 py-md-0">
                         <h1 class="mb-3">Welcome to Project Lo.Co.</h1>
-                        <p class="mb-5">Here's we got for you!
-                            <strong>Select what best suites for you!</strong></p>
+                        <p class="mb-5">Here's what we've got for you!
+                            <strong>Select what best suits for you!</strong></p>
 
                         <a href="#"><img src="<?php echo base_url('assets/png/kiwixlogo.png') ?>" class="img-fluid rounded" alt="" style="width: 70%; height: 70%"></a>
 
