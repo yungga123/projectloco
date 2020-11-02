@@ -11,7 +11,7 @@
             <div class="row h-100">
                 <div class="col-12 my-auto">
                     <div class="masthead-content text-white py-5 py-md-0">
-                        <h1 class="mb-3">Welcome to Project Lo.Co.</h1>
+                        <h1 class="mb-3">Fly High Majayjay!</h1>
                         <p class="mb-5">Here's what we've got for you!
                             <strong>Select what best suits for you!</strong></p>
 
