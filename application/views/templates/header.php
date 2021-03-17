@@ -21,6 +21,15 @@
     <!-- Custom styles for this template -->
     <link href="<?php echo base_url('assets/landingpage/') ?>css/coming-soon.min.css" rel="stylesheet">
 
+    <style>
+        body {
+            background-image: url('<?php echo base_url('assets/png/pasima.jpg') ?>');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+
 </head>
 
 <body>
