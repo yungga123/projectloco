@@ -23,7 +23,7 @@
 
     <style>
         body {
-            background-image: url('<?php echo base_url('assets/png/pasima.jpg') ?>');
+            background-image: url('<?php echo base_url('assets/png/paagahanhs.jpg') ?>');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
