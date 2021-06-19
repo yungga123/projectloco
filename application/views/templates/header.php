@@ -23,7 +23,7 @@
 
     <style>
         body {
-            background-image: url('<?php echo base_url('assets/png/paagahanhs.jpg') ?>');
+            background-image: url('<?php echo base_url('assets/png/kiloloran.jpg') ?>');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
